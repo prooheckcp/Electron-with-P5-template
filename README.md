@@ -8,4 +8,4 @@ Commands:
 
 ``npm start`` --Start the project from the terminal
 
-``npm prod`` --Turn the project into a windows executable (you may need to use ``npm i electron-packager -g`` to install it globally on your machien in case it is not working locally)
+``npm prod`` --Turn the project into a windows executable (you may need to use ``npm i electron-packager -g`` to install it globally on your machine in case it is not working locally)
