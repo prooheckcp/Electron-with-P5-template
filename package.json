@@ -4,7 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "prod": "electron-packager . --asar"
   },
   "author": "prooheckcp",
   "license": "ISC",
